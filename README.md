@@ -1,4 +1,4 @@
-#Newsletter sign-up form with success message
+# Newsletter sign-up form with success message
 
 Your challenge is to build out this newsletter form and get it looking as close to the design as possible.
 
@@ -14,8 +14,12 @@ The email address is not formatted correctly
 View the optimal layout for the interface depending on their device's screen size
 See hover and focus states for all interactive elements on the page
 
-##Tools used
+## Tools used
 
 - HTML
 - CSS
 - JavaScript
+
+## Live link
+
+https://jsilver88.github.io/news-subscribe-form/
